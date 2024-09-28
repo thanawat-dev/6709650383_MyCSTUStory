@@ -21,7 +21,6 @@ body {
     text-align: center;
     color: #291200;
     font-family: "Montserrat", sans-serif;
-    text-align: center;
 }
 
 #thanawat {
@@ -135,12 +134,4 @@ header {
     background-color: rgb(207, 144, 35);
     border: 1px solid gray;
     text-align: center;
-}
-
-#myfuture {
-
-}
-
-#myjourney {
-
 }
