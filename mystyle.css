@@ -137,7 +137,7 @@ header {
 }
 
 h2 {
-    float: left;
+    text-align: left;
 }
 
 .mf {
